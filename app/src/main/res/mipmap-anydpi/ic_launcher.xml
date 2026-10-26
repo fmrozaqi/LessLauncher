@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 7.x has no adaptive icons, so this draws the same icon with its own shape. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#FF14161B"
+        android:pathData="M12,2h24a10,10 0,0 1,10 10v24a10,10 0,0 1,-10 10h-24a10,10 0,0 1,-10 -10v-24a10,10 0,0 1,10 -10z" />
+    <group
+        android:scaleX="1.0476"
+        android:scaleY="1.0476"
+        android:translateX="9.333"
+        android:translateY="9.333">
+        <path
+            android:pathData="M5.25 3.5H9.91667C10.8832 3.5 11.6667 4.2835 11.6667 5.25V9.91667C11.6667 10.8832 10.8832 11.6667 9.91667 11.6667H5.25C4.2835 11.6667 3.5 10.8832 3.5 9.91667V5.25C3.5 4.2835 4.2835 3.5 5.25 3.5Z M18.0833 3.5H22.75C23.7165 3.5 24.5 4.2835 24.5 5.25V9.91667C24.5 10.8832 23.7165 11.6667 22.75 11.6667H18.0833C17.1168 11.6667 16.3333 10.8832 16.3333 9.91667V5.25C16.3333 4.2835 17.1168 3.5 18.0833 3.5Z M5.25 16.3333H9.91667C10.8832 16.3333 11.6667 17.1168 11.6667 18.0833V22.75C11.6667 23.7165 10.8832 24.5 9.91667 24.5H5.25C4.2835 24.5 3.5 23.7165 3.5 22.75V18.0833C3.5 17.1168 4.2835 16.3333 5.25 16.3333Z M18.0833 16.3333H22.75C23.7165 16.3333 24.5 17.1168 24.5 18.0833V22.75C24.5 23.7165 23.7165 24.5 22.75 24.5H18.0833C17.1168 24.5 16.3333 23.7165 16.3333 22.75V18.0833C16.3333 17.1168 17.1168 16.3333 18.0833 16.3333Z"
+            android:strokeColor="#FF3D6BFF"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>
